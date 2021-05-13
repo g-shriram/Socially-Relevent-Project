@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Splash"
+    android:orientation="vertical"
+    android:background="#ffffff">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:src="@drawable/splashicon"
+        android:layout_centerVertical="true"
+        />
+    <TextView
+        android:id="@+id/statename"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginBottom="30dp"
+        android:fontFamily="sans-serif-smallcaps"
+        android:gravity="center"
+        android:text="Listening is  often the only thing needed to help someone."
+        android:textAlignment="center"
+        android:textColor="#6EC607"
+        android:textSize="20sp"
+        android:transitionName="logo_text1"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentBottom="true" />
+
+    <TextView
+        android:id="@+id/appname"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:fontFamily="@font/roboto_bold"
+        android:layout_marginTop="30dp"
+        android:gravity="center"
+        android:text="MIND CALIBRATOR"
+        android:textAlignment="center"
+        android:textColor="#00B107"
+        android:textSize="30sp"
+        android:transitionName="logo_text"
+        android:layout_centerHorizontal="true"
+         />
+
+</RelativeLayout>

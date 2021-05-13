@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:title="@string/voice_call"
+        android:id="@+id/call"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/fui_ic_phone_white_24dp" />
+
+
+    <item
+        android:title="@string/vedio_call"
+        android:id="@+id/translate"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_baseline_video_call_24" />
+    <item
+        android:title="@string/info"
+        android:id="@+id/info"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/ic_baseline_info_24" />
+
+</menu>

@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "title": "Ease Into Exercise",
+    "genres": ["STAGEA"],
+    "count": 120,
+    "desc": "Exercise can also build confidence and help you cope with stress or anxiety. Being physically active prompts the release of brain chemicals such as neurotransmitters and endorphins, which can boost mood and ease depression symptoms. Even taking a short walk outside or riding a stationary bike can restart your engine."
+  },
+  {
+    "id": 2,
+    "title": "Practice Yoga",
+    "genres": ["STAGEA|STAGEB"],
+    "count": 120,
+    "desc": "Best known for its flexibility-enhancing benefits, yoga also works as a complementary treatment for depression. Although researchers are still looking into how and why yoga helps ease depression symptoms, a study published in the journal Evidence-Based Complementary and Alternative Medicine in 2007 found that yoga could benefit people taking antidepressants who are in partial remission. The study's authors suggest that the stretching, balancing, and breathing routines involved in yoga help reduce depression, anger, fatigue, confusion, and anxiety. And because yoga is a mind-body practice, it's best done when you can devote your full attention to it, making it an excellent solo activity."
+  },
+  {
+    "id": 3,
+    "title": "Meditation",
+    "genres": ["STAGEA|STAGEB|STAGEC"],
+    "count": 120,
+    "desc": "Research shows that a growing number of people are turning to meditation to help manage depression because it can help interrupt recurring negative thoughts. Even practicing simple meditation techniques could improve a negative mood and reduce stress. A 2009 study conducted by scientists at the University of Oxford in England found that people with severe and recurring depression benefit from incorporating mindfulness-based cognitive therapy — a combination of ancient forms of meditation and modern behavior therapy — into their treatment plan. Consider taking a basic meditation class or follow a beginner's audio or video"
+  },
+  {
+    "id": 4,
+    "title": "Care For a Pet",
+    "genres": ["STAGEA|STAGEB"],
+    "count": 120,
+    "desc": "Pets provide companionship, helping reduce feelings of loneliness. Taking care of a pet can also give you a sense of purpose and satisfaction. Dr. Kramer cautions, however, that for people with more severe forms of depression, the responsibility of having to care for a pet can backfire. \"In general, people often feel pets are reliable and supportive, but it's important to not trivialize depression,\" he explains. \"For some, it may feel like a burden to walk the dog, and people may end up feeling guilty about that.\" In that case, an animal that requires less attention may still fulfill you; consider a bird, fish, or small mammal."
+  },
+  {
+    "id": 5,
+    "title": "Clinical Treatment",
+    "genres": ["STAGEC|STAGED"],
+    "count": 120,
+    "desc": "One good way to ease that loneliness and help manage depression is to reach out to others, forming healthy social connections with those around you. However, you can't be with other people all the time. So, engaging in healthy solo activities could help fend off feelings of isolation and reinforce your depression treatment.  "
+  },
+  {
+    "id": 6,
+    "title": "Spend Time With Nature",
+    "genres": ["STAGEA|STAGEB"],
+    "count": 120,
+    "desc": "For people managing depression, gardening can be a simple way to interrupt negative thoughts. A study of 28 clinically depressed adults who participated in a 12-week therapeutic horticulture program revealed that the activity could help reduce the severity of depression. The research, published in the Journal of Advanced Nursing in 2010, noted that the effectiveness of the program was linked to how interested the participants became in gardening. Like cognitive behavior therapy, which helps people redirect their thinking, engaging your mind in something else, particularly something creative, can be helpful and uplifting. With gardening, the added benefit of being in sunshine improved outcomes."
+  },
+  {
+    "id": 7,
+    "title": "Develop Strong Support Network ",
+    "genres": ["STAGEB|STAGEC"],
+    "count": 120,
+    "desc": "Sometimes, being among a crowd of people can be comforting and make you feel less lonely and isolated. Sitting with a good book and maybe some small snacks in a park on a sunny day may be one of the best simple activities to fight depression."
+  },
+  {
+    "id": 8,
+    "title": "Turn Up Music ",
+    "genres":[ "STAGEA"],
+    "count": 120,
+    "desc": "Listening to music is another activity that can help ease depression and loneliness. A 2010 review of studies that focused on listening to music found that, indeed, tuning in to your favorite songs can improve depression symptoms. The researchers also noted that over time, music may have a cumulative effect. The more you include it in your life, the more pleasurable it can become.\n\nEven if what you used to enjoy doesn't seem like fun now, over time these activities in combination with medication and talk therapy could help lift your spirits and improve your mood. And you don't have to rely on anyone else to do them!\n"
+  },
+  {
+    "id": 9,
+    "title": "Get Into Gardening ",
+    "genres": ["STAGEA|STAGEB"],
+    "count": 120,
+    "desc": "For people managing depression, gardening can be a simple way to interrupt negative thoughts. A study of 28 clinically depressed adults who participated in a 12-week therapeutic horticulture program revealed that the activity could help reduce the severity of depression. The research, published in the Journal of Advanced Nursing in 2010, noted that the effectiveness of the program was linked to how interested the participants became in gardening. Like cognitive behavior therapy, which helps people redirect their thinking, engaging your mind in something else, particularly something creative, can be helpful and uplifting. With gardening, the added benefit of being in sunshine improved outcomes."
+  },
+  {
+    "id": 10,
+    "title": "Get Enough Sleep",
+    "genres":[ "STAGEA|STAGEB|STAGEC"],
+    "count": 120,
+    "desc": "Research shows that a growing number of people are turning to meditation to help manage depression because it can help interrupt recurring negative thoughts. Even practicing simple meditation techniques could improve a negative mood and reduce stress. A 2009 study conducted by scientists at the University of Oxford in England found that people with severe and recurring depression benefit from incorporating mindfulness-based cognitive therapy — a combination of ancient forms of meditation and modern behavior therapy — into their treatment plan. Consider taking a basic meditation class or follow a beginner's audio or video"
+  },
+  {
+    "id": 11,
+    "title": "Avoid Alcohol and Drugs ",
+    "genres": ["STAGEA|STAGEB|STAGEC|STAGED"],
+    "count": 120,
+    "desc": "volunteering can ease depression and increase a sense of well-being and satisfaction. \"Good relationships along with some reliable, productive outlet — such as work or volunteering — that provides some structure, extra meaning, and a certain amount of reward outside the social circle can be really helpful,\" Kramer explains. The study's authors point out that volunteering just 10 hours a month or less can provide mental health benefits. Just don't overextend yourself, the researchers caution, or the benefit can become a burden."
+  },
+  {
+    "id": 12,
+    "title": "Develop Good Nutrition ",
+    "genres":[ "STAGEA|STAGEB"],
+    "count": 120,
+    "desc": "               Emotions are appraisals of an environment in relation to one’s needs. They tell you whether or not things are going your way or getting in your way. When you get lost in your anger, your loneliness, or your sad complaints (blame), without fully understanding what it is you need, and why it is that your life situation is being given a negative emotional appraisal, you end up getting stuck."
+  },
+  {
+    "id": 13,
+    "title": "Lose Yourself in a Book",
+    "genres": ["STAGEA|STAGEB"],
+    "count": 120,
+    "desc": "For people who have mild depression, reading a self-help book or other motivational book between therapy sessions can be helpful — and might even accelerate recovery. A study published in the journal Clinical Psychology & Psychotherapy in 2010 found that this practice, known as cognitive bibliotherapy, resulted in a dramatic improvement in depression symptoms. But your reading material can also be purely pleasurable. Engrossing yourself in a character's story can help shift your mood and move your thoughts in a new — and better — direction."
+  },
+  {
+    "id": 14,
+    "title": "Get Active",
+    "genres": ["STAGEA"],
+    "count": 120,
+    "desc": "When we become depressed our body often starts to shut down. We become lethargic, don’t want to do anything, and feel like every little task is a hassle. To counteract this tendency, behaviorists have long suggested that one of the best ways to fight depression is to get your body reactivated.\n\nOne way to do this is to exercise. When you exercise, your body releases endorphins into the blood stream and this produces a calming effect. You might even consider lifting some weights since the succession of straining your muscles and relaxing your muscles mimics another psychological technique to calm the nervous system called progressive muscle relaxation\n"
+  },
+  {
+    "id": 15,
+    "title": "Identify What You Need",
+    "genres": ["STAGEC|STAGED"],
+    "count": 120,
+    "desc": "Emotions are appraisals of an environment in relation to one’s needs. They tell you whether or not things are going your way or getting in your way. When you get lost in your anger, your loneliness, or your sad complaints (blame), without fully understanding what it is you need, and why it is that your life situation is being given a negative emotional appraisal, you end up getting stuck.\n\nHowever, every emotion gives you information about what it is you value, want, or need, and if you can get in touch with that, you will have more agency and control over getting what it is you really want. One of the ways to fight depression is therefore to unlock the unfulfilled need contained in your emotional frustrations.\n"
+  },
+  {
+    "id": 16,
+    "title": "Face Yours Fears",
+    "genres": ["STAGEA|STAGEB|STAGEC|STAGED"],
+    "count": 120,
+    "desc": "One of the ways depression can look is as a pervasive sense of indifference, lack of interests, and lack of zest for life. Some people feel empty, don’t know where they are going, have few or no opinions about matters around them, or avoid close encounters. They are emotionally shut down, alienated from themselves and others, and say they feel numb or that life feels like they are just going through the motions  .   Whatever may have happened, the person learned to survive by getting rid of emotions that were too unpleasant, by lowering their expectations of life, or by not risking the rejection and disappointment that comes from getting excited or caring about something."
+  },
+  {
+    "id": 17,
+    "title": "Practice Relaxation ",
+    "genres": ["STAGEA|STAGEB"],
+    "count": 120,
+    "desc": "Research shows that a growing number of people are turning to meditation to help manage depression because it can help interrupt recurring negative thoughts. Even practicing simple meditation techniques could improve a negative mood and reduce stress. A 2009 study conducted by scientists at the University of Oxford in England found that people with severe and recurring depression benefit from incorporating mindfulness-based cognitive therapy — a combination of ancient forms of meditation and modern behavior therapy — into their treatment plan. Consider taking a basic meditation class or follow a beginner's audio or video"
+  },
+  {
+    "id": 18,
+    "title": "Do Things You Enjoy",
+    "genres": ["STAGEB"],
+    "count": 120,
+    "desc": "Emotions are appraisals of an environment in relation to one’s needs. They tell you whether or not things are going your way or getting in your way. When you get lost in your anger, your loneliness, or your sad complaints (blame), without fully understanding what it is you need, and why it is that your life situation is being given a negative emotional appraisal, you end up getting stuck.\n\nHowever, every emotion gives you information about what it is you value, want, or need, and if you can get in touch with that, you will have more agency and control over getting what it is you really want. One of the ways to fight depression is therefore to unlock the unfulfilled need contained in your emotional frustrations.\n"
+  },
+  {
+    "id": 19,
+    "title": "Set Goals ",
+    "genres": ["STAGEA"],
+    "count": 126,
+    "desc": "Emotions are appraisals of an environment in relation to one’s needs. They tell you whether or not things are going your way or getting in your way. When you get lost in your anger, your loneliness, or your sad complaints (blame), without fully understanding what it is you need, and why it is that your life situation is being given a negative emotional appraisal, you end up getting stuck.\n\nHowever, every emotion gives you information about what it is you value, want, or need, and if you can get in touch with that, you will have more agency and control over getting what it is you really want. One of the ways to fight depression is therefore to unlock the unfulfilled need contained in your emotional frustrations.\n"
+  },
+  {
+    "id": 20,
+    "title": "Challengeing Negative Thoughts ",
+    "genres": ["STAGEA|STAGEB|STAGEC"],
+    "count": 126,
+    "desc": "Self-compassion means adopting a loving and caring attitude toward yourself that is similar to the one you would adopt toward a good friend or someone you love. It is a way to remind yourself that you are human, have frailties, and make mistakes, but that you do the best you can given your circumstances, and deserve to be loved even if you make choices you are not proud of."
+  },
+  {
+    "id": 21,
+    "title": "Get Outside ",
+    "genres": ["STAGEA|STAGEB"],
+    "count": 126,
+    "desc": "Sometimes, being among a crowd of people can be comforting and make you feel less lonely and isolated. Sitting with a good book and maybe some small snacks in a park on a sunny day may be one of the best simple activities to fight depression."
+  },
+  {
+    "id": 22,
+    "title": "Change an Emotion with an Emotion",
+    "genres": ["STAGEB|STAGEC"],
+    "count": 126,
+    "desc": "emotion which alerts you to a loss or absence of something you want, also contains a potential for getting in touch with other emotions, which will change the nature of your sadness.\n\n    The sadness you feel can also be transformed through a grieving process which allows you to actively let go of what will never be or what is forever lost. Oftentimes people stay captive in a depressed state because they are not able to accept their reality. They continue to wish that it be different. Grieving allows you to move on and focus on building a new reality.By going into your emotions, rather than avoiding them, and by accessing another emotion that is contrary to or different from the original emotion, you can transform how you feel.\n"
+  },
+  {
+    "id": 23,
+    "title": "Playing Games ",
+    "genres": ["STAGEA|STAGEB"],
+    "count": 126,
+    "desc": "Puzzles might not be something you’d typically consider as a creative activity, but problem solving is a creative act."
+  },
+  {
+    "id": 24,
+    "title": "Try Something New Entirely",
+    "genres": ["STAGEA|STAGEB"],
+    "count": 126,
+    "desc": "Whether it comes in the form of a stroll through a park, a tour around your neighborhood or taking your pet for a walk, being outside and moving has shown to improve mood, thanks to the increased endorphins that come from physical activity."
+  },
+  {
+    "id": 25,
+    "title": "Go For a Ride",
+    "genres": ["STAGEA|STAGEB"],
+    "count": 126,
+    "desc": "Refocus your mind to pedaling and enjoy the endorphins from riding a bike. If bikes aren’t your thing, try rollerblading or skateboarding. Many cities also have bikes you can rent and drop off in different parts of town, which is an excellent way to explore a new neighborhood with little expense."
+  },
+  {
+    "id": 26,
+    "title": "Volunteer With a Passion",
+    "genres": ["STAGEA|STAGEB|STAGEC"],
+    "count": 126,
+    "desc": "volunteering can ease depression and increase a sense of well-being and satisfaction. \"Good relationships along with some reliable, productive outlet — such as work or volunteering — that provides some structure, extra meaning, and a certain amount of reward outside the social circle can be really helpful,\" Kramer explains. The study's authors point out that volunteering just 10 hours a month or less can provide mental health benefits. Just don't overextend yourself, the researchers caution, or the benefit can become a burden."
+  },
+  {
+    "id": 27,
+    "title": "Visual Arts",
+    "genres":[ "STAGEA|STAGEB|STAGEC"],
+    "count": 126,
+    "desc": "Visual arts like drawing, painting and collage can all be extremely therapeutic.  Admittedly, they can feel intimidating to start with – especially if you’re a beginner – but if you’re able to ‘let go’ and get absorbed in your art the process of making it can be very positive.  It can also help you express your feelings."
+  },
+  {
+    "id": 28,
+    "title": "Do Something You are Good At",
+    "genres": ["STAGEA|STAGEB"],
+    "count": 126,
+    "desc": "Depression often goes together with feeling worthless or ineffective. An anti-dote to this feeling is to do something you feel good at. The sense of accomplishment and mastery that comes from a job well done will help rebuild your confidence and is one of the best ways to fight depression.\n\nRemember to leave your all or nothing thinking at the door: You do not need to be good at everything in order to grant yourself a victory. If you are having a hard time remembering something you do particularly well, think back to earlier times in your life when you felt accomplished, or when somebody said you had a talent or knack for something.\n"
+  },
+  {
+    "id": 29,
+    "title": "Painting and Coloring ",
+    "genres":[ "STAGEA|STAGEB|STAGEC"],
+    "count": 126,
+    "desc": "Visual arts like drawing, painting and collage can all be extremely therapeutic.  Admittedly, they can feel intimidating to start with – especially if you’re a beginner – but if you’re able to ‘let go’ and get absorbed in your art the process of making it can be very positive.  It can also help you express your feelings."
+  },
+  {
+    "id": 30,
+    "title": "Swimming",
+    "genres": ["STAGEA"],
+    "count": 126,
+    "desc": "The beach can be an underrated spot, especially when it’s not summertime. Bring a book or some music along and spend a couple of hours swimming and relaxing in the sun. If the beach is inaccessible, see if your local community center has an outdoor swimming pool you can use."
+  }
+]

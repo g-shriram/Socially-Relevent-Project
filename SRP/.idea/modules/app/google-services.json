@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "802014888069",
+    "firebase_url": "https://mindcalibrator-15d41.firebaseio.com",
+    "project_id": "mindcalibrator-15d41",
+    "storage_bucket": "mindcalibrator-15d41.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802014888069:android:46e0775bc6dd632d3629ec",
+        "android_client_info": {
+          "package_name": "com.gprs.srp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "802014888069-rgdrrkihlf4qfic8d3isutqva1ud5jqc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gprs.srp",
+            "certificate_hash": "ca6ea1e4d8597470f0d600e05a10a7c5c9ef37da"
+          }
+        },
+        {
+          "client_id": "802014888069-goddrbaclibp75935p8nd85ql5i4gnmr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVB2_UwORTCKRgcyuvpoR-aOVMJEaB-Zw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "802014888069-goddrbaclibp75935p8nd85ql5i4gnmr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
